@@ -40,3 +40,11 @@ h1{
     width: center;
     height: 800px;
 }
+.logo{
+    width: 500px;
+    height: 500p x;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
